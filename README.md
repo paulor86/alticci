@@ -1,13 +1,13 @@
 # alticci-api
 ________________________________________________________________________________________________________________________________
 
-## API REST do cálculo com Swagger-ui. Disponível em: https://alticci-api.herokuapp.com/swagger-ui.html
+### API REST do cálculo com Swagger-ui. Disponível em: https://alticci-api.herokuapp.com/swagger-ui.html
 
-## Método GET - Api para listar todos os indices com cálculos: https://alticci-api.herokuapp.com/alticci
+### Método GET - Api para listar todos os indices com cálculos: https://alticci-api.herokuapp.com/alticci
 
-## Método GET - Api para listar um único indice e retornando o cálculo: https://alticci-api.herokuapp.com/alticci/{index}
+### Método GET - Api para listar um único indice e retornando o cálculo: https://alticci-api.herokuapp.com/alticci/{index}
 
-## Método POST - Api para calcular um indice e retorna o valor, salvando em banco: https://alticci-api.herokuapp.com/alticci/
+### Método POST - Api para calcular um indice e retorna o valor, salvando em banco: https://alticci-api.herokuapp.com/alticci/
 __________________________________________________________________________________________________________________________________
 
 # Docker
